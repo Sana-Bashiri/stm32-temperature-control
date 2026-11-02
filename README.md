@@ -69,7 +69,6 @@ Read the [English technical report](Report/STM32_Embedded_Temperature_Control_Re
 
 `Results` is reserved for the real-hardware demonstration video. No video was present in the supplied project folder, so none is included. Add the recording here, for example as `STM32_Hardware_Demonstration.mp4`, and add its link to this section. That filename is a suggested future name, not an existing result. No measured settling time, temperature accuracy, or oscilloscope trace is claimed.
 
-`Readme.tex` is the requested LaTeX version of this project overview. `README.md` provides a version that GitHub displays directly. To typeset the LaTeX overview, run `pdflatex Readme.tex` in the repository root using a LaTeX installation.
 
 ## Third-party material
 
